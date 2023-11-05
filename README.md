@@ -74,7 +74,19 @@ Ahora, se procede al cálculo de las matrices de transformación homogénea (MTH
 </p>
 </div>
 
-## 
+## Diseño Interfaz Gráfica.
+
+
+## Comparación Gráficas Digitales vs Gráficas Reales.
+
+#### Pose [q1 q2 q3 q4] = [0 0 0 0]
+
+<div>
+<p style = 'text-align:center;' align="center">
+<img width="449" alt="Screenshot 2023-11-05 at 17 09 09" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/b78d42fc-6d35-41f4-a0b7-870f282ae025">
+<img width="517" alt="Screenshot 2023-11-05 at 17 09 34" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/40e4cff6-0894-4252-bf2e-a7dd80a303ec">
+</p>
+</div>
 
 
 
