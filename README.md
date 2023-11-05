@@ -83,8 +83,8 @@ Ahora, se procede al cálculo de las matrices de transformación homogénea (MTH
 
 <div>
 <p style = 'text-align:center;' align="center">
-<img width="450" height="500" alt="Screenshot 2023-11-05 at 17 09 09" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/b78d42fc-6d35-41f4-a0b7-870f282ae025">
-<img width="450" height="500" alt="Screenshot 2023-11-05 at 17 09 34" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/40e4cff6-0894-4252-bf2e-a7dd80a303ec">
+<img width="450" height="450" alt="Screenshot 2023-11-05 at 17 09 09" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/b78d42fc-6d35-41f4-a0b7-870f282ae025">
+<img width="450" height="450" alt="Screenshot 2023-11-05 at 17 09 34" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/40e4cff6-0894-4252-bf2e-a7dd80a303ec">
 </p>
 </div>
 
@@ -92,8 +92,8 @@ Ahora, se procede al cálculo de las matrices de transformación homogénea (MTH
 
 <div>
 <p style = 'text-align:center;' align="center">
-<img width="500" height="500" alt="Screenshot 2023-11-05 at 17 17 07" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/c4db9173-15fa-42d6-a4dd-865aefaece66">
-<img width="500" height="500" alt="Screenshot 2023-11-05 at 17 17 45" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/ec0d87eb-1c09-4435-9e79-cb50ff66ee42">
+<img width="450" height="450" alt="Screenshot 2023-11-05 at 17 17 07" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/c4db9173-15fa-42d6-a4dd-865aefaece66">
+<img width="450" height="450" alt="Screenshot 2023-11-05 at 17 17 45" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/ec0d87eb-1c09-4435-9e79-cb50ff66ee42">
 </p>
 </div>
 
@@ -101,8 +101,8 @@ Ahora, se procede al cálculo de las matrices de transformación homogénea (MTH
 
 <div>
 <p style = 'text-align:center;' align="center">
-<img width="500" height="500" alt="Screenshot 2023-11-05 at 17 19 59" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/ee75f11e-c828-40de-8ca1-af02d9053285">
-<img width="500" height="500" alt="Screenshot 2023-11-05 at 17 20 48" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/192297f9-c7c2-4713-8d3d-cf5415a5c1c7">
+<img width="450" height="450" alt="Screenshot 2023-11-05 at 17 19 59" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/ee75f11e-c828-40de-8ca1-af02d9053285">
+<img width="450" height="450" alt="Screenshot 2023-11-05 at 17 20 48" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/192297f9-c7c2-4713-8d3d-cf5415a5c1c7">
 </p>
 </div>
 
