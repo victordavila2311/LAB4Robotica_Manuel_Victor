@@ -79,6 +79,8 @@ Ahora, se procede al cálculo de las matrices de transformación homogénea (MTH
 
 ## Comparación Gráficas Digitales vs Gráficas Reales.
 
+Una vez que se ha configurado la interfaz gráfica, se procede a verificar su funcionamiento. Esto implica comparar la pose real del robot con la pose digital generada por la biblioteca de Peter Corke. Al realizar esta comparación y observar que ambas poses son idénticas, se confirma que la interfaz está funcionando correctamente. Esto indica que la representación digital del robot refleja de manera precisa su posición y orientación en el mundo real, lo que es un indicativo de un funcionamiento adecuado de la interfaz, tal como se muestra a continuación para cada una de las poses solicitadas.
+
 #### Pose No. 1 [q1 q2 q3 q4] = [0 0 0 0]
 
 <div>
