@@ -97,6 +97,25 @@ Ahora, se procede al cálculo de las matrices de transformación homogénea (MTH
 </p>
 </div>
 
+#### Pose [q1 q2 q3 q4] = [-35 35 -30 30]
+
+<div>
+<p style = 'text-align:center;' align="center">
+<img width="500" height="500" alt="Screenshot 2023-11-05 at 17 19 59" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/ee75f11e-c828-40de-8ca1-af02d9053285">
+<img width="500" height="500" alt="Screenshot 2023-11-05 at 17 20 48" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/192297f9-c7c2-4713-8d3d-cf5415a5c1c7">
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
