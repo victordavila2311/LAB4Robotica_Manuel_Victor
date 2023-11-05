@@ -166,8 +166,8 @@ Una vez que se ha configurado la interfaz gráfica, se procede a verificar su fu
 
 <div>
 <p style = 'text-align:center;' align="center">
-<a href="https://www.youtube.com/watch?v=jWy_6WWa2CI" target="_blank"><img src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/3980c8b8-a016-44b3-8f83-8f129df38e22" 
-alt="IMAGE ALT TEXT HERE" width="700" height="250" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=jWy_6WWa2CI" target="_blank"><img src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/blob/main/imagenes%20lab%204/pos%205.png" 
+alt="IMAGE ALT TEXT HERE" width="700" height="350" border="10" /></a>
 </p>
 </div>
 
