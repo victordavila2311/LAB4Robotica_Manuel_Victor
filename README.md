@@ -75,6 +75,14 @@ Ahora, se procede al cálculo de las matrices de transformación homogénea (MTH
 </div>
 
 ## Diseño Interfaz Gráfica.
+La interfaz gráfica se ha desarrollado utilizando la herramienta App Designer de MATLAB, y el resultado obtenido es el siguiente:
+
+<div>
+<p style = 'text-align:center;' align="center">
+<img width="1438" alt="Screenshot 2023-11-05 at 17 56 14" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/3980c8b8-a016-44b3-8f83-8f129df38e22">
+</p>
+</div>
+
 
 
 ## Comparación Gráficas Digitales vs Gráficas Reales.
