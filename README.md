@@ -20,10 +20,10 @@ En una primera fase, se inicia con el análisis de las articulaciones y eslabone
 <div>
 <p style = 'text-align:center;' align="center">
 <img width="324" alt="Screenshot 2023-11-05 at 16 10 26" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/0e6d9e56-c8ee-4e8a-82c4-c56a02acc563">
-<img width="237" alt="Screenshot 2023-11-05 at 16 10 56" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/56b82910-20cb-4a42-9903-d4ff5b23c540">
+<img width="324" alt="Screenshot 2023-11-05 at 16 10 56" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/56b82910-20cb-4a42-9903-d4ff5b23c540">
 </p>
 </div>
-  
+  237
 ## Tabla de Parámetros de Denavit-Hartenberg Estándar (DHstd).
 Una vez completado el análisis de los eslabones y articulaciones, se procede a la creación de la tabla de parámetros. Esta tabla contendrá información esencial que permitirá describir de manera precisa la configuración cinemática del robot.
 
