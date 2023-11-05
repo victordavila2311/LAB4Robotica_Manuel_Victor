@@ -79,7 +79,7 @@ Ahora, se procede al cálculo de las matrices de transformación homogénea (MTH
 
 ## Comparación Gráficas Digitales vs Gráficas Reales.
 
-#### Pose [q1 q2 q3 q4] = [0 0 0 0]
+#### Pose No. 1 [q1 q2 q3 q4] = [0 0 0 0]
 
 <div>
 <p style = 'text-align:center;' align="center">
@@ -88,7 +88,7 @@ Ahora, se procede al cálculo de las matrices de transformación homogénea (MTH
 </p>
 </div>
 
-#### Pose [q1 q2 q3 q4] = [25 25 20 -20]
+#### Pose No. 2 [q1 q2 q3 q4] = [25 25 20 -20]
 
 <div>
 <p style = 'text-align:center;' align="center">
@@ -97,7 +97,7 @@ Ahora, se procede al cálculo de las matrices de transformación homogénea (MTH
 </p>
 </div>
 
-#### Pose [q1 q2 q3 q4] = [-35 35 -30 30]
+#### Pose No. 3 [q1 q2 q3 q4] = [-35 35 -30 30]
 
 <div>
 <p style = 'text-align:center;' align="center">
@@ -106,21 +106,22 @@ Ahora, se procede al cálculo de las matrices de transformación homogénea (MTH
 </p>
 </div>
 
+#### Pose No. 4 [q1 q2 q3 q4] = [85 -20 55 25]
 
+<div>
+<p style = 'text-align:center;' align="center">
+<img width="400" height="400" alt="Screenshot 2023-11-05 at 17 25 53" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/6bf25b7f-b3c4-4d70-9e44-c44a44f27d8f">
+<img width="400" height="400" alt="Screenshot 2023-11-05 at 17 26 17" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/76582039-ed23-4270-a8ad-d1201ca73115">
+</p>
+</div>
 
+#### Pose No. 5 [q1 q2 q3 q4] = [80 -35 55 -45]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div>
+<p style = 'text-align:center;' align="center">
+<img width="400" height="400" alt="Screenshot 2023-11-05 at 17 28 43" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/7e09b735-5d6f-422c-a9fa-3fd6fdad18fd">
+<img width="400" height="400" alt="Screenshot 2023-11-05 at 17 29 01" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/51a24f88-c1c2-4734-a3ad-f00fa49ec082">
+</p>
+</div>
 
 
