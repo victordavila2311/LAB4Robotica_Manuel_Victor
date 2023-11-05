@@ -23,7 +23,7 @@ En una primera fase, se inicia con el análisis de las articulaciones y eslabone
 <img width="324" height="500" alt="Screenshot 2023-11-05 at 16 10 56" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/56b82910-20cb-4a42-9903-d4ff5b23c540">
 </p>
 </div>
-  237
+  
 ## Tabla de Parámetros de Denavit-Hartenberg Estándar (DHstd).
 Una vez completado el análisis de los eslabones y articulaciones, se procede a la creación de la tabla de parámetros. Esta tabla contendrá información esencial que permitirá describir de manera precisa la configuración cinemática del robot.
 
@@ -83,8 +83,8 @@ Ahora, se procede al cálculo de las matrices de transformación homogénea (MTH
 
 <div>
 <p style = 'text-align:center;' align="center">
-<img width="449" alt="Screenshot 2023-11-05 at 17 09 09" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/b78d42fc-6d35-41f4-a0b7-870f282ae025">
-<img width="517" alt="Screenshot 2023-11-05 at 17 09 34" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/40e4cff6-0894-4252-bf2e-a7dd80a303ec">
+<img width="450" height="500" alt="Screenshot 2023-11-05 at 17 09 09" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/b78d42fc-6d35-41f4-a0b7-870f282ae025">
+<img width="450" height="500" alt="Screenshot 2023-11-05 at 17 09 34" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/40e4cff6-0894-4252-bf2e-a7dd80a303ec">
 </p>
 </div>
 
