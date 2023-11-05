@@ -1,4 +1,4 @@
-## Laboratorio No. 3 - Robótica Industrial
+## Laboratorio No. 4 - Robótica Industrial
 ### Integrantes: 
 - Victor Manuel Dávila Castañeda.
 - Manuel Felipe Carranza Montenegro.
