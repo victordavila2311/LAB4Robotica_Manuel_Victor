@@ -54,7 +54,7 @@ Se crea un objeto de robot serial llamado "ROBOT" utilizando los objetos de enla
 ### Definición de la Herramienta del Robot: 
 Se define la herramienta (Tool) del robot, que es una transformación rígida que se aplica en la punta del brazo robótico. En este caso, se establece la herramienta como una rotación trotx(0) y una translación transl(0, 0, 0), lo que significa que la herramienta se encuentra en la posición y orientación inicial del extremo del robot.
 
-### Visualización del Robot: 
+#### Visualización del Robot: 
 Se utiliza la función "ROBOT.plot" para visualizar el robot en una configuración inicial. Se proporciona una secuencia de valores de articulación [0 pi/2 0 0] que define la posición y orientación inicial del robot. Además, se establecen límites de visualización para los ejes X, Y y Z, y se ajusta la vista de la representación gráfica del robot.
 
 
