@@ -33,4 +33,32 @@ Una vez completado el análisis de los eslabones y articulaciones, se procede a 
 </p>
 </div>
 
+## Comprobación Cinemática Directa.
+Una vez que se han determinado los parámetros, se procede a realizar la verificación utilizando la biblioteca de Peter Corke. Esta etapa es esencial para asegurarse de que los cálculos de cinemática directa del robot sean precisos y confiables.
+
+<div>
+<p style = 'text-align:center;' align="center">
+<img width="522" alt="Screenshot 2023-11-05 at 16 20 15" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/1910032c-6564-494e-8f48-10b358faa4d0">
+</p>
+</div>
+
+### Se definen los Parámetros del Robot: 
+En este paso, se establecen las longitudes de los eslabones del robot, que representan las distancias entre las articulaciones. Estos valores se asignan a las variables l_1, l_2, l_3 y l_4.
+
+### Creación de Objetos de Enlace: 
+Se crean objetos de enlace para cada articulación del robot. Cada enlace se define con sus propias características, como el tipo de articulación (en este caso, revoluta), los límites de movimiento (qlim), las distancias "d" y los ángulos "a" y "alpha". Estos objetos de enlace se almacenan en un vector L.
+
+### Creación del Objeto de Robot Serial: 
+Se crea un objeto de robot serial llamado "ROBOT" utilizando los objetos de enlace definidos anteriormente. Este objeto representa el robot completo y se utiliza para realizar cálculos y simulaciones posteriores.
+
+### Definición de la Herramienta del Robot: 
+Se define la herramienta (Tool) del robot, que es una transformación rígida que se aplica en la punta del brazo robótico. En este caso, se establece la herramienta como una rotación trotx(0) y una translación transl(0, 0, 0), lo que significa que la herramienta se encuentra en la posición y orientación inicial del extremo del robot.
+
+### Visualización del Robot: 
+Se utiliza la función "ROBOT.plot" para visualizar el robot en una configuración inicial. Se proporciona una secuencia de valores de articulación [0 pi/2 0 0] que define la posición y orientación inicial del robot. Además, se establecen límites de visualización para los ejes X, Y y Z, y se ajusta la vista de la representación gráfica del robot.
+
+
+
+
+
 
