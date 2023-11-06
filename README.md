@@ -119,6 +119,19 @@ Y el resultado obtenido es el siguiente:
 </div>
 
 1) Selección Múltiple de Posiciones Posibles:
+Esta opción de selección múltiple permite al usuario visualizar y elegir entre todas las posibles configuraciones cinemáticas que se han establecido para el robot. Esto es especialmente útil para explorar y comparar diferentes posiciones y orientaciones del robot, lo que facilita la interacción con el sistema y la elección de la configuración deseada.
+
+2) Ir a la Posición:
+Una vez que se ha seleccionado una configuración cinemática específica, al presionar este botón se envía una señal que efectúa el posicionamiento del robot. Esto significa que el robot se moverá y se ajustará automáticamente a la posición y orientación seleccionada, llevando a cabo la acción deseada. Este botón actúa como un disparador para iniciar el proceso de posicionamiento del robot.
+
+3) Valores para cada Articulación:
+Una vez que se ha seleccionado una configuración cinemática específica, al presionar este botón se envía una señal que efectúa el posicionamiento del robot. Esto significa que el robot se moverá y se ajustará automáticamente a la posición y orientación seleccionada, llevando a cabo la acción deseada. Este botón actúa como un disparador para iniciar el proceso de posicionamiento del robot.
+
+4) Última Posición Enviada:
+Este botón tiene la función de mostrar de forma gráfica, utilizando el toolbox de Peter Corke, la configuración cinemática del robot que ha sido previamente seleccionada por el usuario en la opción de selección múltiple al inicio. Esta representación gráfica proporciona una visualización visual de la configuración cinemática del robot, lo que permite al usuario tener una comprensión más clara y detallada de la disposición de las articulaciones y los eslabones en la configuración elegida.
+
+5) Posición Actual:
+Este botón tiene la función de desactivar el torque en todas las articulaciones del robot. Al hacerlo, el usuario puede modificar manualmente la configuración cinemática del robot. Esta característica permite a los usuarios ajustar la posición y orientación de las articulaciones de forma manual, lo que puede ser útil para tareas de programación o enseñanza. También les permite visualizar la configuración angular de las articulaciones mientras realizan ajustes manuales.
 
 ## Comparación Gráficas Digitales vs Gráficas Reales.
 
