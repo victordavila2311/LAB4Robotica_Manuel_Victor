@@ -103,13 +103,22 @@ dxl1_present_position = read2ByteTxRx(port_num, PROTOCOL_VERSION, DXL1_ID, ADDR_
 Con esta función se puede leer un byte del dynamixel y necesita como argumentos el puerto, la version del protocolo, la id del motor y la direccion del byte que se quiere leer que en este caso es la posicion actual del motor.
 Luego de entender como funcionan todas estas funciones, al momento de diseñar la interfaz grafica con el app designer de matlab solo fue necesario arrastrar los elementos que ibamos a utilizar y despues agragar las funciones de event listener para los botones y dentro de ellas escribir los comandos que queriamos que se ejecutaran, la grafica de la posicion actual del robot se ve en una ventana aparte debido a que la funcion de plot del toolbox no permitia integracion con los UIAxes de la GUI de matlab.
 Y el resultado obtenido es el siguiente:
+
 <div>
 <p style = 'text-align:center;' align="center">
 <img width="1438" alt="Screenshot 2023-11-05 at 17 56 14" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/3980c8b8-a016-44b3-8f83-8f129df38e22">
 </p>
 </div>
 
+## Funcionalidades de la Interfaz Gráfica.
 
+<div>
+<p style = 'text-align:center;' align="center">
+<img width="872" alt="Screenshot 2023-11-05 at 19 20 47" src="https://github.com/victordavila2311/LAB4Robotica_Manuel_Victor/assets/82252851/5cd4600c-3be1-428a-8c0d-8d7360ff845a">
+</p>
+</div>
+
+1) Selección Múltiple de Posiciones Posibles:
 
 ## Comparación Gráficas Digitales vs Gráficas Reales.
 
